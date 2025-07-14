@@ -33,7 +33,7 @@ Este proyecto demuestra cómo una idea puede crecer desde una lógica local hast
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/superkickfinder.git
+git clone https://github.com/Avila-Rich-Sanchez/superkickfinder.git
 cd superkickfinder
 ```
 
@@ -91,17 +91,13 @@ superkickfinder/
 🌐 Fuente de datos
 
 - API utilizada: [API-Football](https://www.api-football.com/)
-- En versiones offline: datos personalizados alojados en `data/jugadores.json`
 
 ---
 
 🌟 Próximos pasos
 
-- Interfaz gráfica con `Tkinter` o `PyQt`
-- Sistema de simulación de partidos
-- Expansión de base de datos local
-- Exportación de resultados como CSV o JSON
-- Guardado de progreso y estadísticas históricas
+- Encontrar el jugador que haya jugado con 5 jugadores aleatorios
+- Añadir una interfaz grafica usando tkinter o PyQt
 
 ---
 
