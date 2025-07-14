@@ -1,6 +1,6 @@
 ⚽ SuperKickFinder – Explorador de Conexiones entre Jugadores
 
-**SuperKickFinder** es una aplicación deportiva escrita en Python que permite al usuario descubrir si un jugador ha compartido equipo con otros jugadores seleccionados. La app evoluciona a lo largo de cinco versiones, cada una agregando nuevas funcionalidades, mejoras de rendimiento y mejores prácticas de programación.
+**SuperKickFinder** es una aplicación deportiva escrita en Python que permite al usuario descubrir si un jugador ha compartido equipo con otros jugadores seleccionados(No terminada, con la ultima version se creo la funcion de extraer datos como los clubes de los jugadores, falta la busquedas de plantillas de temporadas exactas y las coincidencias de los jugadores). La app evoluciona a lo largo de cinco versiones, cada una agregando nuevas funcionalidades, mejoras de rendimiento y mejores prácticas de programación.
 
 Este proyecto demuestra cómo una idea puede crecer desde una lógica local hasta convertirse en una herramienta asincrónica capaz de consultar datos reales desde una API externa. Ideal para practicar consumo de APIs, manejo de datos, asincronía y diseño modular.
 
